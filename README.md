@@ -32,3 +32,4 @@ Your website must meet the following requirements:
 
 ### Links
 YouTube URL: (https://youtu.be/mzeKNVpfjqg)
+Live Site: (https://effy1996.github.io/CS50W-search-project-0/)
